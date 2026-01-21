@@ -1,5 +1,6 @@
 {
   "name": "sha",
+  "homepage": "https://youmin-crypto.github.io/sha256algorithm",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
